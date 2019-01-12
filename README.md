@@ -1,4 +1,4 @@
-# Pipeline-java-jenkins
+# Pipeline-jenkins-java
 
 Repositorio para el laboratorio de CI con Jenkins
 
